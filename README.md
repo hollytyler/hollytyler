@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Holly Tyler
 #### I am an aspiring Software Engineer!
+![Banner](https://github.com/hollytyler/hollytyler/assets/136198980/8c25e5ba-3828-4b22-8bf8-341d69b64ceb)
 I am still learning how to navigate the world of code! After 16 Weeks of a highly intensive Professional Software Development course, based in Edinburgh, I am finally ready to dive head first into the wonderful professional world of Software Development!
 
 Skills: PYTHON / JAVA / JS / REACT / REACT NATIVE / HTML / CSS 
